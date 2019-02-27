@@ -1,589 +1,614 @@
-ID,Country,City,Lat,Lng
-0,AF,aybak,36.21,67.98
-1,AF,carikar,35.29,68.55
-2,AF,sahrak,35.29,64.15
-3,AG,codrington,19.19,-56.9
-4,AO,camacupa,-11.81,17.98
-5,AO,lubango,-15.31,14.71
-6,AO,malanje,-8.78,18.08
-7,AO,menongue,-16.3,18.52
-8,AR,junin,-34.24,-61.29
-9,AR,mar del plata,-58.51,-34.48
-10,AR,rawson,-44.89,-62.04
-11,AR,rio gallegos,-50.66,-67.35
-12,AR,san juan,-32.12,-67.86
-13,AR,san luis,-33.06,-66.72
-14,AR,trelew,-43.01,-65.27
-15,AR,ushuaia,-74.15,-68.84
-16,AT,sankt jakob,46.51,14.11
-17,AU,albany,-53.86,122.41
-18,AU,alice springs,-21.02,133.91
-19,AU,alyangula,-14.29,139.69
-20,AU,ballina,-30.53,157.3
-21,AU,batemans bay,-40.62,153.48
-22,AU,busselton,-35.66,113.67
-23,AU,carnarvon,-29.78,96.45
-24,AU,casino,-28.66,153.04
-25,AU,esperance,-42.12,126.42
-26,AU,flinders,-35.48,132.44
-27,AU,geraldton,-29.22,109.25
-28,AU,gold coast,-27.07,155.9
-29,AU,hervey bay,-21.31,156.05
-30,AU,hobart,-65.73,144.89
-31,AU,karratha,-15.11,113.26
-32,AU,kiama,-35.58,152.69
-33,AU,mackay,-17.11,156.24
-34,AU,mareeba,-15.79,142.26
-35,AU,mount gambier,-49.53,133.76
-36,AU,nambucca heads,-30.45,152.8
-37,AU,narrabri,-30.03,150.34
-38,AU,new norfolk,-64.2,135.53
-39,AU,nguiu,-11.97,128.12
-40,AU,ngukurr,-18.6,134.96
-41,AU,port keats,-12.55,128.38
-42,AU,port lincoln,-40.43,129.51
-43,AU,port macquarie,-34.24,162.82
-44,AU,portland,-44.85,140.43
-45,AU,townsville,-18.55,147.32
-46,AU,ulladulla,-39.11,155.41
-47,BB,bathsheba,13.7,-56.58
-48,BJ,cotonou,2.57,2.99
-49,BM,hamilton,26.23,-63.02
-50,BO,san javier,-15.83,-61.89
-51,BR,amapa,3.34,-47.31
-52,BR,amarante,-6.34,-43.05
-53,BR,arraial do cabo,-56.26,-19.43
-54,BR,belmonte,-17.47,-30.15
-55,BR,caucaia,0.35,-35.72
-56,BR,cidreira,-40.98,-36.28
-57,BR,encruzilhada do sul,-30.54,-52.52
-58,BR,ibotirama,-11.79,-42.95
-59,BR,itarema,6.92,-37.6
-60,BR,japura,-0.18,-69.13
-61,BR,lago da pedra,-4.55,-45.36
-62,BR,laguna,-30.78,-46.62
-63,BR,maceio,-14.6,-30.65
-64,BR,maragogi,-10.61,-32.89
-65,BR,olinda,-8.85,-27.66
-66,BR,oriximina,1.16,-56.01
-67,BR,padre bernardo,-15.04,-48.31
-68,BR,patrocinio,-18.78,-47.12
-69,BR,pilao arcado,-9.87,-43.04
-70,BR,sao joao da barra,-29.9,-29.57
-71,BR,touros,3.83,-32.43
-72,BR,vila velha,-21.64,-34.1
-73,BR,vilhena,-13.58,-60.51
-74,BW,letlhakane,-21.77,25.79
-75,BW,shakawe,-18.09,22.27
-76,BW,tsienyane,-21.44,23.47
-77,BY,ivanava,52.11,25.46
-78,CA,aklavik,70.9,-135.61
-79,CA,atikokan,47.99,-91.76
-80,CA,attawapiskat,53.57,-81.7
-81,CA,chapais,55.58,-75.3
-82,CA,clyde river,70.56,-68.47
-83,CA,fort nelson,58.68,-122.04
-84,CA,havre-saint-pierre,49.63,-61.38
-85,CA,hearst,50.4,-84.22
-86,CA,high level,57.83,-115.44
-87,CA,inuvik,68.42,-134.05
-88,CA,iqaluit,60.83,-76.31
-89,CA,kitimat,54.34,-129.34
-90,CA,la ronge,61.36,-105.68
-91,CA,lanigan,51.94,-105.23
-92,CA,mackenzie,55.54,-124.06
-93,CA,norman wells,71.56,-124.71
-94,CA,normandin,49.12,-73.27
-95,CA,pangnirtung,60.98,-61.89
-96,CA,parry sound,45.22,-80.63
-97,CA,port hardy,46.79,-132.73
-98,CA,port-cartier,52.85,-67.78
-99,CA,prince rupert,51.53,-132.88
-100,CA,quesnel,53.19,-121.18
-101,CA,saint anthony,56.8,-56.7
-102,CA,saint-augustin,50.26,-59.6
-103,CA,saint-prosper,46.2,-70.17
-104,CA,sept-iles,55.01,-66.44
-105,CA,shelburne,40.5,-64.24
-106,CA,thompson,71.37,-97.69
-107,CA,torbay,37.36,-47.93
-108,CA,tuktoyaktuk,77.55,-135.4
-109,CA,yellowknife,76.74,-103.11
-110,CD,bongandanga,1.72,20.57
-111,CD,bosobolo,4.06,19.39
-112,CD,kabare,-2.22,27.51
-113,CD,kasangulu,-4.95,15.98
-114,CD,mangai,-4.46,19.24
-115,CF,grimari,5.76,19.91
-116,CI,grand-lahou,-0.7,-4.39
-117,CI,seguela,8.51,-6.85
-118,CI,tabou,-2.18,-5.32
-119,CK,avarua,-38.67,-163.06
-120,CL,ancud,-40.82,-76.15
-121,CL,castro,-52.18,-92.76
-122,CL,coihaique,-44.59,-69.92
-123,CL,coquimbo,-27.06,-84.72
-124,CL,lebu,-31.54,-98.99
-125,CL,punta arenas,-82.36,-104.49
-126,CL,talcahuano,-34.45,-76.79
-127,CM,kousseri,11.66,14.94
-128,CM,kumbo,6.75,10.65
-129,CM,mbengwi,5.94,9.43
-130,CN,bengbu,33.25,117.31
-131,CN,bijie,26.65,105.02
-132,CN,boshan,36.38,117.76
-133,CN,chizhou,30.63,117.27
-134,CN,dandong,39.69,124.79
-135,CN,daxian,31.43,107.65
-136,CN,fangshan,39.77,115.69
-137,CN,fengrun,39.68,117.78
-138,CN,hailar,46.44,118.17
-139,CN,haimen,22.68,117.68
-140,CN,hami,45.95,95.69
-141,CN,huangchuan,32.58,114.84
-142,CN,jining,42.58,113.65
-143,CN,kuandian,41.17,124.77
-144,CN,kuche,36.92,83.1
-145,CN,lasa,32.46,93.36
-146,CN,linhai,28.77,120.59
-147,CN,luan,31.89,116.73
-148,CN,shihezi,45.35,86.34
-149,CN,tianpeng,31.6,102.97
-150,CN,urumqi,41.56,89.23
-151,CN,wenzhou,28.05,120.24
-152,CN,xining,35.7,101.73
-153,CN,xuanhua,39.62,114.8
-154,CN,yanan,36.89,107.85
-155,CN,yatou,35.46,122.21
-156,CN,yining,44.68,82.25
-157,CN,yumen,36.59,94.9
-158,CN,zalantun,49.0,122.36
-159,CO,paez,2.74,-75.98
-160,CO,sabana de torres,7.26,-73.46
-161,CO,uribia,13.11,-71.68
-162,CR,santa cruz,8.5,-87.55
-163,CU,media luna,20.4,-77.55
-164,CV,ponta do sol,21.18,-38.41
-165,CV,praia,5.07,-23.51
-166,CV,santa maria,21.12,-22.42
-167,CV,sao filipe,10.05,-32.2
-168,DK,brorup,55.61,9.06
-169,DK,nexo,54.79,15.25
-170,DZ,adrar,29.87,-3.2
-171,DZ,aflu,32.64,3.0
-172,DZ,warqla,27.68,6.41
-173,EC,calceta,-0.95,-79.96
-174,EC,puerto ayora,3.95,-95.76
-175,EC,san cristobal,-3.67,-89.01
-176,EG,alexandria,32.63,28.95
-177,EG,aswan,22.25,29.6
-178,EG,asyut,24.65,26.78
-179,EG,marsa matruh,31.55,26.8
-180,EG,tahta,25.84,29.96
-181,EG,talkha,31.39,31.16
-182,ES,la baneza,42.24,-5.79
-183,ES,zafra,38.04,-6.34
-184,ET,dabat,13.87,37.59
-185,ET,dire dawa,10.33,42.17
-186,FR,biscarrosse,44.52,-1.29
-187,FR,talant,47.43,4.77
-188,FR,vichy,46.21,3.12
-189,GA,gamba,-3.47,7.91
-190,GA,port-gentil,1.09,5.32
-191,GB,brae,60.23,-2.47
-192,GB,great yarmouth,55.79,2.63
-193,GB,mallaig,57.11,-5.77
-194,GF,cayenne,15.06,-43.17
-195,GF,mana,8.06,-53.81
-196,GF,sinnamary,5.31,-52.9
-197,GH,axim,4.77,-2.86
-198,GH,salaga,8.57,-0.88
-199,GH,savelugu,9.81,-0.46
-200,GL,aasiaat,69.36,-53.43
-201,GL,illoqqortoormiut,77.62,-19.52
-202,GL,nanortalik,54.5,-44.37
-203,GL,narsaq,78.79,-65.99
-204,GL,paamiut,60.18,-50.41
-205,GL,qaanaaq,83.38,-70.45
-206,GL,qasigiannguit,68.08,-48.92
-207,GL,tasiilaq,61.21,-33.87
-208,GL,upernavik,84.27,-46.05
-209,GP,saint-francois,19.96,-52.35
-210,GR,methoni,35.58,20.11
-211,GR,palaia fokaia,37.31,23.96
-212,GY,bartica,5.7,-60.83
-213,HN,gracias,14.55,-88.53
-214,ID,bangil,-7.64,112.81
-215,ID,baturaja,-4.06,104.9
-216,ID,bengkulu,-18.46,87.34
-217,ID,biak,1.42,136.96
-218,ID,gorontalo,2.36,121.84
-219,ID,kalianget,-7.3,114.14
-220,ID,kendari,-4.11,124.11
-221,ID,labuhan,-12.16,100.78
-222,ID,manokwari,2.58,134.34
-223,ID,mataram,-8.33,116.1
-224,ID,meulaboh,1.29,95.26
-225,ID,padang,-7.29,93.77
-226,ID,palabuhanratu,-17.39,100.53
-227,ID,pangkalanbuun,-2.95,112.05
-228,ID,praya,-12.85,116.14
-229,ID,pringsewu,-7.95,102.71
-230,ID,sinjai,-5.13,120.19
-231,ID,tidore,-1.12,125.81
-232,IE,westport,55.95,-15.17
-233,IL,ashqelon,32.23,33.56
-234,IN,along,29.7,93.67
-235,IN,bikaner,27.91,73.01
-236,IN,brajrajnagar,21.88,83.79
-237,IN,chatrapur,18.91,85.6
-238,IN,dwarka,19.84,66.45
-239,IN,leh,34.39,77.36
-240,IN,north guwahati,26.34,91.82
-241,IN,port blair,11.06,93.27
-242,IN,saiha,22.33,92.79
-243,IN,tawang,27.84,92.46
-244,IN,veraval,18.99,68.81
-245,IR,bam,27.8,58.96
-246,IR,zarand,30.6,56.29
-247,IS,bolungarvik,66.51,-22.44
-248,IS,grindavik,63.46,-22.41
-249,IS,hofn,59.47,-15.64
-250,IS,husavik,73.4,-12.27
-251,IS,vestmannaeyjar,62.65,-20.13
-252,IT,agropoli,39.48,14.57
-253,IT,campobello di mazara,37.12,12.65
-254,IT,olbia,41.14,9.95
-255,IT,porto empedocle,36.92,13.44
-256,JO,wadi musa,30.13,35.21
-257,JP,hasaki,29.5,157.15
-258,JP,kamaishi,36.74,146.02
-259,JP,katsuura,26.8,145.96
-260,JP,naze,27.96,128.9
-261,JP,nishihara,23.25,131.81
-262,JP,shimoda,29.92,140.76
-263,JP,tomigusuku,26.53,126.47
-264,KE,kajiado,-1.94,36.7
-265,KE,kitui,-1.75,38.03
-266,KE,limuru,-1.17,36.33
-267,KH,kracheh,13.14,106.2
-268,KH,sisophon,13.56,103.54
-269,KI,bairiki,0.04,165.39
-270,KI,butaritari,29.62,177.73
-271,KI,rungata,1.7,176.57
-272,KI,utiroa,-4.67,168.97
-273,KM,moroni,-12.03,41.75
-274,KR,seoul,39.06,129.11
-275,KZ,derzhavinsk,50.3,67.31
-276,KZ,fort-shevchenko,43.8,50.04
-277,KZ,tasbuget,44.53,64.65
-278,KZ,ushtobe,46.35,77.8
-279,KZ,zhanakorgan,44.2,67.89
-280,KZ,zharkent,43.11,80.12
-281,KZ,zhezkazgan,46.54,67.24
-282,LK,hambantota,2.04,84.39
-283,LK,weligama,2.07,79.39
-284,LR,buchanan,1.45,-11.33
-285,LT,salcininkai,54.25,26.06
-286,LY,awjilah,27.35,18.94
-287,LY,jalu,27.61,21.71
-288,LY,marzuq,24.95,15.28
-289,MA,agadir,30.98,-10.23
-290,MA,tarudant,27.76,-5.12
-291,MG,ambanja,-13.83,47.9
-292,MG,mahanoro,-19.62,49.33
-293,MG,taolanaro,-70.3,64.11
-294,MG,tsihombe,-42.23,43.57
-295,MG,tsiroanomandidy,-19.21,46.19
-296,MG,vangaindrano,-23.63,48.06
-297,ML,nara,15.14,-6.98
-298,ML,taoudenni,26.07,-5.91
-299,MM,yenangyaung,20.38,94.15
-300,MN,ondorhaan,47.18,111.83
-301,MU,bambous virieux,-27.65,78.05
-302,MU,cap malheureux,-13.93,59.93
-303,MU,grand river south east,-21.32,77.93
-304,MU,mahebourg,-29.62,66.08
-305,MU,quatre cocos,-17.96,69.73
-306,MU,roches noires,-19.57,58.75
-307,MU,souillac,-44.9,70.03
-308,MV,felidhoo,3.74,73.31
-309,MV,hithadhoo,-21.6,80.23
-310,MV,kulhudhuffushi,7.16,65.07
-311,MX,acapulco,3.9,-103.91
-312,MX,cabo san lucas,18.64,-114.41
-313,MX,campeche,20.02,-90.96
-314,MX,constitucion,15.55,-122.06
-315,MX,el sauzal,31.83,-117.01
-316,MX,guerrero negro,18.53,-122.75
-317,MX,lazaro cardenas,14.26,-103.91
-318,MX,matamoros,25.46,-96.28
-319,MX,mocorito,25.61,-107.85
-320,MX,ojinaga,29.4,-105.21
-321,MX,san fernando,24.58,-97.7
-322,MX,san patricio,12.44,-111.85
-323,MX,tecoanapa,6.47,-102.15
-324,MX,villa union,28.12,-100.39
-325,MX,zempoala,19.75,-96.16
-326,MY,sri aman,-0.2,112.8
-327,MZ,angoche,-17.64,42.51
-328,MZ,cuamba,-13.39,36.95
-329,MZ,manica,-18.37,32.75
-330,NA,henties bay,-21.52,4.05
-331,NA,luderitz,-36.65,-1.56
-332,NA,maltahohe,-24.15,16.63
-333,NA,opuwo,-18.17,11.98
-334,NA,otavi,-19.85,17.16
-335,NA,walvis bay,-23.07,14.55
-336,NC,ponerihouen,-20.98,165.74
-337,NC,vao,-25.07,171.54
-338,NE,bilma,17.99,15.3
-339,NG,potiskum,11.81,10.91
-340,NO,berlevag,87.85,33.66
-341,NO,dokka,60.98,10.01
-342,NO,finnsnes,69.94,17.9
-343,NO,mehamn,80.15,28.82
-344,NO,rensvik,63.22,8.17
-345,NO,skjervoy,72.14,20.05
-346,NO,tromso,71.91,17.88
-347,NO,vardo,79.61,36.56
-348,NU,alofi,-18.24,-165.93
-349,NZ,bluff,-78.42,166.43
-350,NZ,hokitika,-41.73,168.96
-351,NZ,kaitangata,-65.0,177.56
-352,NZ,ngunguru,-32.47,178.59
-353,NZ,otorohanga,-38.31,175.38
-354,NZ,tolaga bay,-38.35,178.3
-355,NZ,tuatapere,-47.91,162.79
-356,NZ,whitianga,-36.61,175.82
-357,OM,sur,16.14,61.87
-358,PA,ailigandi,10.32,-77.54
-359,PE,ayacucho,-13.46,-73.94
-360,PE,barranca,-5.23,-76.7
-361,PE,el alto,-3.16,-85.37
-362,PE,hualmay,-12.47,-79.42
-363,PE,marcona,-24.56,-86.4
-364,PE,pisco,-14.64,-78.4
-365,PE,pucara,-7.72,-77.3
-366,PE,tambopata,-12.99,-69.62
-367,PF,atuona,-1.45,-137.09
-368,PF,faanui,-2.87,-155.89
-369,PF,fare,-8.37,-148.66
-370,PF,mataura,-42.65,-152.17
-371,PF,moerai,-20.98,-150.41
-372,PF,rikitea,-29.97,-117.5
-373,PF,tautira,-18.86,-145.4
-374,PG,kavieng,-3.07,149.95
-375,PG,kiunga,-6.03,140.42
-376,PG,kokopo,-5.44,151.99
-377,PG,lorengau,-3.26,147.21
-378,PG,namatanai,-3.32,153.55
-379,PG,panguna,-4.64,154.39
-380,PG,samarai,-16.42,153.8
-381,PH,buluang,12.94,119.43
-382,PH,puro,18.9,116.57
-383,PH,tabialan,3.88,122.56
-384,PH,taburi,9.94,114.01
-385,PH,tagusao,12.46,114.36
-386,PK,kasur,31.15,74.47
-387,PL,czechowice-dziedzice,49.86,18.96
-388,PT,camacha,35.16,-12.66
-389,PT,lagoa,42.78,-30.77
-390,PT,peniche,40.52,-12.7
-391,PT,ponta delgada,33.57,-26.22
-392,PT,ribeira grande,37.21,-39.48
-393,PT,vila franca do campo,30.98,-24.82
-394,PW,airai,13.8,141.37
-395,PW,kloulklubed,4.24,132.25
-396,PY,cambyreta,-27.43,-55.46
-397,PY,doctor pedro p. pena,-23.71,-61.45
-398,PY,san alberto,-24.91,-54.89
-399,RE,saint-joseph,-28.16,53.89
-400,RE,saint-philippe,-60.81,71.32
-401,RE,saint-pierre,-27.12,53.07
-402,RO,dragalina,44.43,27.24
-403,RU,amderma,70.94,58.41
-404,RU,angarsk,52.4,103.77
-405,RU,anzhero-sudzhensk,56.18,85.91
-406,RU,aykhal,65.67,112.18
-407,RU,belaya gora,68.39,146.57
-408,RU,belushya guba,87.82,47.93
-409,RU,belyy yar,59.35,83.98
-410,RU,beringovskiy,62.55,179.63
-411,RU,chagda,57.5,130.47
-412,RU,chara,56.37,118.64
-413,RU,cherskiy,81.74,156.4
-414,RU,chokurdakh,74.24,151.86
-415,RU,dikson,82.41,82.02
-416,RU,dubovyy umet,52.85,50.32
-417,RU,dukat,60.18,155.22
-418,RU,egvekinot,62.78,-179.17
-419,RU,erzin,47.03,96.79
-420,RU,gari,58.93,63.01
-421,RU,igrim,63.89,63.46
-422,RU,iskateley,67.49,54.59
-423,RU,khani,56.64,122.09
-424,RU,khatanga,82.24,99.66
-425,RU,khodz,44.54,40.69
-426,RU,kirya,55.16,46.85
-427,RU,kropotkin,59.01,116.05
-428,RU,kuldur,49.4,131.88
-429,RU,kungurtug,49.27,96.91
-430,RU,kuytun,54.25,101.45
-431,RU,kysyl-syr,64.09,122.26
-432,RU,lavrentiya,78.58,-170.63
-433,RU,lazo,46.34,133.19
-434,RU,leningradskiy,78.45,177.53
-435,RU,manturovo,57.78,44.56
-436,RU,mezen,66.99,45.77
-437,RU,mugreyevskiy,56.63,42.43
-438,RU,mugur-aksy,48.71,90.29
-439,RU,muravlenko,63.4,74.15
-440,RU,myaundzha,64.46,147.42
-441,RU,mys shmidta,72.51,-178.5
-442,RU,nagornyy,52.67,83.73
-443,RU,nikolskoye,42.32,169.86
-444,RU,nizhneyansk,77.3,136.52
-445,RU,nizhniy lomov,53.44,43.92
-446,RU,novobirilyussy,58.44,90.12
-447,RU,novopokrovka,45.51,134.53
-448,RU,nytva,57.91,55.1
-449,RU,oktyabrskiy,47.93,44.01
-450,RU,ola,59.1,152.22
-451,RU,omsukchan,61.36,156.46
-452,RU,ostrovnoy,77.66,40.5
-453,RU,pangody,69.82,73.71
-454,RU,pechenga,69.33,31.49
-455,RU,petropavlovsk-kamchatskiy,49.55,163.58
-456,RU,pevek,82.38,167.29
-457,RU,provideniya,52.61,-179.05
-458,RU,sangar,63.18,127.23
-459,RU,saskylakh,87.25,113.39
-460,RU,sentyabrskiy,40.4,154.4
-461,RU,severo-kurilsk,43.26,164.52
-462,RU,severomuysk,56.61,113.86
-463,RU,shelabolikha,53.8,82.76
-464,RU,shirochanka,46.87,38.49
-465,RU,smolenka,53.2,112.79
-466,RU,solnechnyy,60.37,137.91
-467,RU,sosnogorsk,63.26,53.88
-468,RU,srednekolymsk,75.35,155.64
-469,RU,staraya toropa,55.98,31.58
-470,RU,svetlaya,45.33,139.45
-471,RU,talnakh,75.29,92.96
-472,RU,tiksi,75.01,131.7
-473,RU,tumannyy,77.71,38.21
-474,RU,tura,65.73,105.18
-475,RU,udachnyy,68.43,115.52
-476,RU,uinskoye,56.88,56.36
-477,RU,ust-maya,60.86,133.54
-478,RU,verkhniy lomov,53.37,43.63
-479,RU,vysokoye,43.32,39.97
-480,RU,zhigansk,70.88,119.97
-481,RU,zlatoustovsk,53.57,134.38
-482,RU,zyryanka,65.39,148.63
-483,SA,mecca,20.26,39.34
-484,SB,auki,-3.6,164.73
-485,SB,buala,1.06,162.16
-486,SB,honiara,-12.65,157.06
-487,SC,victoria,0.09,57.86
-488,SD,bara,13.94,30.63
-489,SE,ostersund,62.61,13.85
-490,SH,georgetown,-19.18,-21.13
-491,SH,jamestown,-22.99,-14.4
-492,SJ,barentsburg,83.16,-2.04
-493,SJ,longyearbyen,86.03,27.78
-494,SL,bonthe,1.94,-19.24
-495,SN,saint-louis,15.73,-16.63
-496,SO,bandarbeyla,5.46,61.33
-497,SO,bargal,11.06,53.42
-498,SO,bereda,14.25,52.01
-499,SO,mahadday weyne,3.28,47.55
-500,SO,mogadishu,-0.62,47.99
-501,SR,wageningen,3.19,-57.04
-502,TC,cockburn harbour,22.0,-71.75
-503,TD,faya,19.06,22.5
-504,TH,chiang mai,18.75,99.09
-505,TH,ranong,10.94,97.28
-506,TO,hihifo,-16.72,-174.09
-507,TO,neiafu,-17.27,-177.26
-508,TO,vaini,-72.19,-173.78
-509,TR,anamur,36.39,33.06
-510,TR,develi,38.07,35.35
-511,TR,gumusyaka,40.9,27.98
-512,TR,kahramanmaras,37.39,36.93
-513,TR,talas,38.81,35.68
-514,TR,zonguldak,43.12,30.87
-515,TV,asau,-14.82,177.01
-516,TV,lolua,-6.42,177.33
-517,TZ,kilimatinde,-5.9,35.05
-518,UA,berezna,51.48,31.93
-519,UA,kryve ozero,48.17,30.41
-520,UA,polyanka,50.49,27.64
-521,US,barrow,86.79,-154.73
-522,US,bay city,43.78,-83.76
-523,US,bend,43.89,-121.7
-524,US,bethel,51.73,-169.58
-525,US,bismarck,45.79,-100.03
-526,US,cape canaveral,28.64,-79.65
-527,US,charleston,39.5,-88.05
-528,US,college,66.75,-149.28
-529,US,edgewater,29.53,-79.63
-530,US,fairbanks,72.39,-145.9
-531,US,forrest city,34.96,-91.3
-532,US,fortuna,38.7,-134.26
-533,US,fortuna foothills,33.12,-113.61
-534,US,half moon bay,32.11,-135.27
-535,US,havre,48.47,-109.89
-536,US,hilo,11.42,-147.08
-537,US,homer,60.67,-154.4
-538,US,isla vista,29.8,-121.83
-539,US,juneau,58.17,-134.76
-540,US,kapaa,24.7,-168.12
-541,US,kihei,19.12,-156.94
-542,US,kirksville,40.38,-92.63
-543,US,kodiak,46.43,-145.56
-544,US,liberal,36.71,-100.34
-545,US,manchester,35.72,-86.05
-546,US,morristown,36.83,-83.27
-547,US,north platte,42.04,-101.64
-548,US,pacific grove,31.56,-129.73
-549,US,palmer,61.03,-143.66
-550,US,pampa,35.43,-101.05
-551,US,pecos,30.34,-103.08
-552,US,ridgecrest,36.15,-116.92
-553,US,saint george,36.59,-113.66
-554,US,searcy,35.48,-91.61
-555,US,sheffield,34.77,-87.68
-556,US,sitka,57.03,-139.22
-557,US,summerville,32.97,-80.35
-558,US,vieques,17.79,-65.37
-559,US,virginia beach,34.57,-70.43
-560,US,weatherford,32.71,-97.69
-561,US,west fargo,46.38,-97.17
-562,UY,chuy,-62.22,-25.72
-563,UY,maldonado,-38.37,-52.65
-564,VC,barroualie,13.74,-62.9
-565,VE,el tigre,8.08,-64.92
-566,VN,bac lieu,7.71,106.08
-567,VN,buon me thuot,12.96,107.82
-568,VN,dong hoi,16.97,106.48
-569,VU,isangel,-24.12,174.76
-570,VU,sola,-11.88,170.85
-571,WF,vaitupu,2.95,-178.26
-572,WS,lotofaga,-14.5,-172.0
-573,WS,saleaula,0.11,-173.46
-574,WS,samusu,-13.64,-166.02
-575,WS,satitoa,-14.85,-170.22
-576,YT,boueni,-13.17,44.36
-577,ZA,bredasdorp,-47.85,19.72
-578,ZA,cape town,-67.98,-13.37
-579,ZA,de aar,-31.2,23.35
-580,ZA,east london,-64.38,47.47
-581,ZA,hermanus,-75.87,-4.61
-582,ZA,kruisfontein,-42.76,25.18
-583,ZA,margate,-41.15,39.23
-584,ZA,plettenberg bay,-37.16,24.13
-585,ZA,port alfred,-78.15,40.56
-586,ZA,port elizabeth,-67.54,34.54
-587,ZA,saldanha,-41.08,-5.12
+Country,City,Lat,Lng
+AF,eskasem,37.5,71.64
+AG,codrington,21.61,-54.78
+AN,nieuwpoort,11.54,-68.59
+AO,cabinda,-5.88,11.73
+AO,lucapa,-7.69,20.19
+AO,namibe,-20.25,4.03
+AR,comodoro rivadavia,-46.88,-63.9
+AR,goya,-30.21,-59.15
+AR,mar del plata,-60.12,-38.86
+AR,parana,-32.14,-60.61
+AR,puerto madryn,-42.56,-65.47
+AR,rio gallegos,-50.56,-66.9
+AR,salta,-24.73,-67.61
+AR,san luis,-32.72,-65.78
+AR,ushuaia,-66.58,-50.15
+AT,haag,48.02,15.47
+AU,albany,-74.7,114.33
+AU,bowen,-16.5,152.6
+AU,broken hill,-26.36,140.95
+AU,broome,-15.06,119.61
+AU,bundaberg,-22.27,154.35
+AU,burnie,-45.32,141.31
+AU,busselton,-35.19,97.19
+AU,carnarvon,-28.94,86.68
+AU,esperance,-39.91,122.55
+AU,flinders,-34.24,133.09
+AU,forbes,-32.89,146.73
+AU,gold coast,-26.26,160.06
+AU,hobart,-79.46,137.75
+AU,innisfail,-16.96,147.62
+AU,karratha,-21.7,113.86
+AU,kununurra,-14.18,125.09
+AU,launceston,-41.19,152.42
+AU,mackay,-16.62,153.87
+AU,mildura,-33.19,142.19
+AU,milingimbi,-11.86,135.21
+AU,mount gambier,-49.47,130.51
+AU,mount isa,-19.29,142.5
+AU,new norfolk,-52.47,141.15
+AU,nguiu,-10.38,130.68
+AU,ngukurr,-17.59,134.6
+AU,northam,-30.28,116.17
+AU,palmerston,-12.29,130.38
+AU,port macquarie,-32.22,154.21
+AU,portland,-47.54,137.48
+AU,roebourne,-24.8,118.07
+AU,roma,-27.44,146.43
+AU,wonthaggi,-39.7,146.36
+AU,yulara,-28.63,130.82
+AZ,artyom,41.24,51.62
+BB,bathsheba,18.41,-45.6
+BB,oistins,12.25,-53.95
+BG,kaolinovo,43.54,26.97
+BJ,kandi,11.04,3.85
+BM,hamilton,30.03,-70.32
+BM,saint george,30.54,-59.47
+BR,agudos,-22.54,-49.22
+BR,alenquer,-0.63,-54.96
+BR,amapa,1.93,-50.53
+BR,aripuana,-7.6,-59.88
+BR,arraial do cabo,-53.15,-20.34
+BR,barcelos,-1.18,-62.77
+BR,bom jardim,-6.83,-46.8
+BR,carauari,-6.16,-66.97
+BR,cidreira,-61.72,-17.59
+BR,cururupu,3.89,-42.39
+BR,dom pedrito,-30.69,-54.69
+BR,floriano,-6.98,-42.89
+BR,florianopolis,-27.89,-47.01
+BR,irati,-25.51,-50.95
+BR,itaobim,-16.63,-41.94
+BR,laguna,-39.48,-34.66
+BR,manaus,-2.18,-60.37
+BR,maragogi,-16.62,-24.65
+BR,miguelopolis,-20.13,-48.19
+BR,morros,-9.76,-46.79
+BR,olinda,-10.03,-26.5
+BR,posse,-14.03,-45.57
+BR,rio grande,-35.08,-49.27
+BR,santa luzia,-8.07,-47.83
+BR,sao felix do xingu,-9.18,-52.31
+BR,sao joao da barra,-32.93,-24.23
+BR,tamandare,-10.12,-30.43
+BR,vila velha,-29.44,-24.29
+BS,marsh harbour,30.33,-72.73
+BT,damphu,26.93,90.19
+BT,punakha,27.71,89.85
+BW,bokspits,-26.94,20.19
+BW,ghanzi,-21.75,20.62
+BW,kobojango,-21.49,28.71
+BW,shakawe,-18.5,22.77
+BY,zlobin,53.31,29.33
+CA,attawapiskat,60.85,-84.04
+CA,bathurst,47.28,-66.02
+CA,bonavista,51.85,-48.47
+CA,cap-aux-meules,48.56,-62.6
+CA,chapais,49.07,-74.63
+CA,clyde river,69.19,-67.83
+CA,dauphin,52.68,-98.77
+CA,fort nelson,58.68,-123.51
+CA,geraldton,54.48,-87.53
+CA,haines junction,58.25,-141.06
+CA,havre-saint-pierre,53.3,-64.35
+CA,hay river,63.69,-117.97
+CA,high level,60.21,-118.02
+CA,kapuskasing,50.05,-81.59
+CA,matagami,51.72,-76.51
+CA,melfort,52.88,-104.46
+CA,montague,46.51,-62.66
+CA,norman wells,84.89,-116.83
+CA,pangnirtung,66.91,-62.42
+CA,port hardy,51.15,-129.79
+CA,port hawkesbury,45.66,-61.49
+CA,prince rupert,53.18,-131.35
+CA,saint anthony,53.37,-52.33
+CA,saint-augustin,57.64,-61.67
+CA,sault sainte marie,46.35,-84.85
+CA,shelburne,39.26,-64.35
+CA,sioux lookout,55.45,-90.71
+CA,thompson,66.49,-93.27
+CA,torbay,42.42,-46.26
+CA,tuktoyaktuk,89.96,-130.28
+CA,ucluelet,47.92,-128.04
+CA,vanderhoof,53.08,-123.68
+CA,yellowknife,77.95,-114.17
+CD,bulungu,-4.77,17.52
+CD,isiro,2.97,27.16
+CD,lodja,-3.8,23.38
+CD,tshela,-4.62,12.78
+CF,bossangoa,6.16,17.1
+CF,sibut,5.92,18.95
+CI,tabou,-0.78,-5.41
+CK,avarua,-59.54,-163.43
+CL,antofagasta,-23.55,-77.91
+CL,castro,-47.43,-81.84
+CL,chillan,-36.61,-72.09
+CL,coihaique,-46.28,-70.41
+CL,copiapo,-28.45,-69.04
+CL,coquimbo,-28.9,-81.32
+CL,lebu,-28.6,-101.06
+CL,ovalle,-31.03,-71.66
+CL,punta arenas,-81.57,-115.57
+CL,san antonio,-34.07,-71.81
+CL,vallenar,-29.25,-69.47
+CN,aksu,40.62,81.3
+CN,dali,25.69,99.9
+CN,hami,39.28,93.9
+CN,huaidian,33.38,115.03
+CN,huanren,40.09,126.19
+CN,jinchang,39.2,102.03
+CN,jining,42.13,112.31
+CN,lasa,34.76,91.87
+CN,liuzhou,25.21,109.06
+CN,quzhou,28.37,118.78
+CN,shache,37.9,79.54
+CN,wulanhaote,45.16,120.36
+CN,xinyang,31.93,113.92
+CN,yanan,38.05,109.54
+CN,yongan,26.71,116.71
+CN,zhoucheng,23.99,101.84
+CO,albania,11.21,-72.61
+CO,cubara,7.26,-72.08
+CO,puerto leguizamo,-0.68,-74.78
+CO,sonson,5.66,-75.29
+CU,baracoa,20.35,-74.74
+CU,mantua,24.72,-85.69
+CV,ponta do sol,24.02,-34.47
+CV,santa maria,22.04,-22.46
+CV,sao filipe,10.82,-34.44
+DE,hannoversch munden,51.55,9.73
+DZ,adrar,29.92,-0.66
+EC,puerto ayora,2.65,-99.41
+EC,san cristobal,-6.92,-90.7
+ER,barentu,14.91,37.84
+ES,carballo,45.94,-10.87
+ES,los llanos de aridane,29.0,-19.57
+ES,muros,46.16,-16.03
+ES,santa cruz de tenerife,29.66,-16.01
+ES,talavera de la reina,40.0,-4.67
+ET,asosa,10.79,33.31
+ET,gore,8.05,36.01
+FI,haukipudas,65.76,25.63
+FI,kuusamo,65.18,28.36
+FO,klaksvik,81.2,-4.65
+FO,vestmanna,69.73,-9.29
+FR,cahors,44.72,1.63
+FR,cognac,45.31,-0.33
+FR,dieppe,49.83,1.2
+FR,tarascon,43.75,4.72
+GA,lastoursville,-0.86,12.93
+GA,mayumba,-7.04,6.13
+GB,brae,68.49,-0.62
+GB,llangefni,53.75,-4.53
+GB,macclesfield,53.17,-2.08
+GB,poole,50.29,-2.07
+GB,sandwick,58.22,1.01
+GF,cayenne,10.65,-46.15
+GF,iracoubo,10.97,-51.11
+GH,takoradi,-3.06,-0.24
+GL,illoqqortoormiut,79.92,-29.37
+GL,ilulissat,72.63,-51.23
+GL,kangaatsiaq,69.76,-55.9
+GL,nanortalik,52.98,-38.35
+GL,narsaq,83.59,-62.04
+GL,paamiut,59.27,-49.7
+GL,qaanaaq,88.86,-68.77
+GL,qasigiannguit,66.35,-48.76
+GL,upernavik,85.3,-58.64
+GP,saint-francois,22.2,-47.62
+GQ,mbini,1.38,8.69
+GR,embonas,36.06,27.66
+GR,milesion,38.3,23.77
+GR,pombia,34.08,24.84
+GT,escuintla,14.32,-90.71
+HR,korcula,42.78,17.07
+ID,ambon,-3.83,125.58
+ID,atambua,-8.08,127.23
+ID,banda aceh,2.84,90.89
+ID,baturaja,-4.79,104.41
+ID,bengkulu,-8.56,95.62
+ID,boyolangu,-15.48,110.34
+ID,kefamenanu,-9.53,124.33
+ID,kupang,-13.71,121.62
+ID,labuhan,-12.64,100.35
+ID,langsa,4.08,97.13
+ID,majene,-4.19,116.93
+ID,mentok,-1.66,105.16
+ID,nabire,-6.26,135.98
+ID,padang,-2.66,99.21
+ID,pangkalanbuun,-2.46,111.37
+ID,pontianak,-0.61,108.47
+ID,sibolga,-1.0,96.35
+ID,sungairaya,0.97,108.58
+ID,tarakan,3.38,118.26
+ID,teluknaga,-5.28,106.96
+ID,tual,-3.69,132.22
+IE,dingle,51.23,-18.36
+IE,killybegs,56.7,-10.36
+IE,letterkenny,55.61,-8.22
+IN,arumbavur,11.35,78.82
+IN,chandausi,28.4,78.76
+IN,chanderi,24.71,78.11
+IN,dwarka,19.97,66.38
+IN,hosanagara,14.02,74.93
+IN,kavaratti,12.91,69.83
+IN,madras,11.8,84.91
+IN,malpe,12.88,72.71
+IN,malwan,14.98,71.11
+IN,mormugao,15.18,73.16
+IN,nichlaul,27.52,83.77
+IN,pasighat,33.49,96.43
+IN,tharad,24.35,70.87
+IN,yanam,16.2,83.3
+IQ,hit,31.39,42.58
+IR,kazerun,30.02,51.52
+IR,minab,26.57,58.08
+IR,sarakhs,36.41,60.5
+IS,akureyri,64.75,-18.58
+IS,grindavik,56.81,-26.06
+IS,hofn,63.78,-15.44
+IS,husavik,78.39,-9.56
+IS,olafsvik,65.34,-27.75
+IS,vestmannaeyjar,62.32,-18.25
+IT,alghero,40.78,7.9
+IT,pachino,35.85,16.86
+IT,polignano a mare,41.69,17.54
+IT,tarquinia,42.13,11.51
+IT,tortoli,39.12,10.85
+JP,fukue,34.01,126.75
+JP,hasaki,26.33,156.61
+JP,hirara,24.78,126.09
+JP,itoman,20.92,130.4
+JP,iwanai,42.51,138.73
+JP,katsuura,24.46,151.64
+JP,nakamura,31.98,133.76
+JP,naze,29.38,129.72
+JP,nemuro,38.04,148.04
+JP,nishihara,23.91,129.29
+JP,noshiro,40.49,139.37
+JP,shimoda,34.09,139.54
+JP,yomitan,26.67,126.94
+KI,buariki,1.92,171.96
+KI,butaritari,21.01,170.47
+KI,rungata,3.8,179.68
+KI,utiroa,-2.47,172.82
+KM,mitsamiouli,-8.19,46.17
+KR,seoul,38.57,128.77
+KZ,abay,48.04,73.37
+KZ,derzhavinsk,49.7,65.84
+KZ,shu,44.01,74.63
+KZ,zhezkazgan,48.92,66.71
+LK,beruwala,5.46,78.28
+LK,hambantota,1.01,87.64
+LK,kalmunai,7.93,85.28
+LK,trincomalee,10.48,84.19
+LR,harper,-2.16,-6.82
+LY,darnah,34.03,21.89
+LY,gat,22.8,10.68
+LY,jalu,30.62,21.98
+LY,marzuq,24.12,16.52
+LY,waddan,28.31,18.22
+MA,nador,34.52,-1.63
+MA,tarudant,28.05,-6.61
+MG,beloha,-33.61,41.4
+MG,mahajanga,-16.79,45.01
+MG,marovoay,-15.74,47.01
+MG,taolanaro,-85.47,67.76
+MG,tsihombe,-31.06,45.51
+ML,nioro,16.17,-10.76
+ML,taoudenni,25.19,-4.15
+ML,tessalit,23.99,0.71
+MR,atar,19.01,-11.44
+MR,bababe,17.02,-14.12
+MR,nouakchott,19.19,-16.77
+MU,bambous virieux,-29.29,81.41
+MU,grand river south east,-21.46,73.66
+MU,mahebourg,-33.23,66.36
+MU,souillac,-45.66,71.26
+MV,hithadhoo,-15.85,79.73
+MV,mahibadhoo,3.99,64.06
+MV,thinadhoo,0.26,64.22
+MV,ugoofaaru,5.72,69.59
+MW,nkhotakota,-12.59,34.27
+MX,acapulco,14.68,-100.95
+MX,cabo san lucas,12.99,-116.39
+MX,constitucion,11.21,-129.46
+MX,guerrero negro,25.9,-115.38
+MX,ixtapa,2.8,-108.81
+MX,lazaro cardenas,5.32,-109.4
+MX,pochutla,11.34,-96.8
+MX,san patricio,3.96,-116.43
+MX,yavaros,26.55,-109.54
+MY,kota belud,6.94,116.02
+MY,labuan,7.57,114.0
+MY,lahad datu,5.5,118.96
+MZ,angoche,-16.64,40.32
+MZ,montepuez,-13.03,38.75
+NA,henties bay,-24.44,3.11
+NA,luderitz,-29.24,11.31
+NA,otjimbingwe,-22.3,16.26
+NA,walvis bay,-25.94,5.29
+NC,bourail,-21.4,165.39
+NC,noumea,-30.49,163.73
+NC,poum,-18.89,159.9
+NC,vao,-27.21,167.38
+NE,ouallam,14.7,2.14
+NE,tanout,16.8,10.63
+NG,abonnema,4.62,6.64
+NG,malumfashi,11.64,8.08
+NG,pindiga,9.5,10.57
+NG,yenagoa,4.41,5.12
+NI,santo domingo,12.57,-84.71
+NI,siuna,13.57,-84.53
+NO,berlevag,79.06,30.29
+NO,bud,71.19,4.06
+NO,karasjok,69.0,24.52
+NO,larsnes,62.35,5.66
+NO,oksfjord,75.55,21.35
+NO,ovre ardal,61.89,8.05
+NO,raudeberg,65.64,3.37
+NO,sorland,74.12,3.36
+NU,alofi,-30.2,-167.43
+NZ,ahipara,-35.2,169.93
+NZ,bluff,-79.26,163.7
+NZ,kaitangata,-68.31,178.08
+NZ,tuatapere,-52.28,161.32
+NZ,waipawa,-42.21,175.08
+OM,ibra,20.31,58.45
+OM,salalah,19.91,51.19
+OM,sur,22.1,60.86
+PE,camana,-18.07,-74.71
+PE,hualmay,-11.83,-78.74
+PE,huarmey,-17.75,-92.87
+PE,los aquijes,-14.11,-75.33
+PE,nauta,-4.19,-74.49
+PE,nicolas de pierola,-12.07,-76.58
+PE,pisco,-15.17,-80.66
+PE,requena,-6.15,-73.94
+PE,sechura,-6.43,-82.13
+PE,tarata,-17.01,-69.66
+PE,uchiza,-8.07,-75.63
+PF,atuona,-8.04,-134.57
+PF,faanui,-0.26,-156.94
+PF,fare,-10.95,-148.21
+PF,mataura,-68.97,-157.54
+PF,rikitea,-34.8,-105.36
+PF,tautira,-16.82,-146.14
+PF,vaitape,-17.88,-155.67
+PG,balimo,-7.66,144.17
+PG,daru,-9.89,142.3
+PG,kavieng,8.2,154.48
+PG,kimbe,-5.5,150.46
+PG,lorengau,7.95,147.49
+PG,vanimo,3.14,141.22
+PH,algeciras,11.68,120.92
+PH,bacuit,13.26,115.5
+PH,callaguip,18.57,118.6
+PH,gigmoto,15.55,127.45
+PH,payo,17.45,128.25
+PH,san policarpo,13.14,129.23
+PH,san vicente,18.98,124.24
+PK,hunza,37.01,75.04
+PK,ormara,25.9,64.52
+PT,angra,36.68,-27.45
+PT,camacha,36.56,-16.24
+PT,canico,31.48,-16.74
+PT,lagoa,43.77,-28.09
+PT,praia da vitoria,49.59,-23.17
+PT,ribeira grande,36.52,-28.69
+PT,vila franca do campo,31.66,-23.57
+PW,airai,19.68,141.34
+PY,pozo colorado,-24.0,-59.79
+QA,khor,26.2,51.5
+RE,le port,-17.59,53.72
+RE,saint-denis,-19.34,55.06
+RE,saint-joseph,-23.95,55.7
+RE,saint-philippe,-47.78,67.39
+RO,draguseni,45.96,27.69
+RU,aginskoye,55.43,95.15
+RU,aksarka,65.91,67.76
+RU,almaznyy,62.53,114.62
+RU,amderma,73.12,61.9
+RU,anadyr,60.26,172.9
+RU,arkhangelskoye,44.47,44.17
+RU,batagay,66.51,135.23
+RU,batagay-alyta,67.21,127.59
+RU,belushya guba,87.6,47.54
+RU,beringovskiy,53.9,176.3
+RU,bilibino,67.08,164.39
+RU,bratsk,56.48,101.38
+RU,chernyshevskiy,63.02,111.38
+RU,cherskiy,79.86,163.04
+RU,cheuskiny,62.28,71.79
+RU,chokurdakh,74.25,148.03
+RU,chumikan,56.23,133.31
+RU,dikson,87.6,87.86
+RU,egvekinot,61.02,-179.48
+RU,evensk,62.15,160.25
+RU,gornopravdinsk,60.45,70.24
+RU,khani,58.45,121.12
+RU,khatanga,81.66,104.54
+RU,kholtoson,50.03,103.64
+RU,kodinsk,60.86,99.52
+RU,komsomolskiy,74.55,173.19
+RU,krasnoselkup,64.9,83.01
+RU,kropotkin,59.78,117.13
+RU,kysyl-syr,63.79,123.1
+RU,labytnangi,71.16,67.37
+RU,lavrentiya,68.48,-170.24
+RU,leningradskiy,80.57,179.91
+RU,mama,58.25,112.93
+RU,milyutinskaya,48.68,42.0
+RU,mochalishche,56.28,48.62
+RU,muravlenko,63.56,71.46
+RU,mys shmidta,77.74,-178.96
+RU,navashino,55.78,42.25
+RU,nevelsk,47.19,140.47
+RU,nikolskoye,53.74,173.11
+RU,nizhneyansk,87.18,141.86
+RU,okha,56.08,143.73
+RU,ossora,60.53,161.7
+RU,ostrovnoy,73.04,41.94
+RU,ous,62.02,61.21
+RU,palana,60.66,160.47
+RU,pechory,57.62,27.74
+RU,pevek,81.32,172.72
+RU,pokrovsk,60.75,129.49
+RU,proletariy,58.38,31.94
+RU,provideniya,47.86,-175.51
+RU,rudnogorsk,57.43,103.58
+RU,saskylakh,74.07,115.45
+RU,semikarakorsk,47.29,40.81
+RU,sentyabrskiy,38.93,152.36
+RU,severo-kurilsk,38.46,159.29
+RU,sovetskiy,74.43,68.04
+RU,sovetskoye,51.37,46.68
+RU,spornoye,63.07,151.26
+RU,srednekolymsk,67.06,157.33
+RU,strezhevoy,59.54,77.25
+RU,suntar,59.91,119.6
+RU,synya,65.03,58.9
+RU,talakan,50.46,130.69
+RU,talnakh,76.59,94.38
+RU,tazovskiy,69.13,77.93
+RU,teguldet,57.04,88.11
+RU,terney,44.91,137.27
+RU,tigil,58.21,155.46
+RU,tiksi,86.15,125.12
+RU,tilichiki,57.98,166.57
+RU,tumannyy,79.69,36.72
+RU,tura,63.95,103.99
+RU,turukhansk,63.73,90.04
+RU,urengoy,65.7,80.06
+RU,ust-nera,62.32,141.34
+RU,vanavara,61.93,104.13
+RU,verkhnetulomskiy,68.37,32.16
+RU,verkhnevilyuysk,64.67,120.57
+RU,vilyuysk,65.48,121.29
+RU,vokhma,59.0,46.76
+RU,volot,57.57,30.71
+RU,vyartsilya,62.37,30.59
+RU,yanchukan,56.01,112.83
+RU,yar-sale,73.17,71.21
+RU,yashalta,46.41,42.57
+RU,yuzhno-yeniseyskiy,58.86,95.81
+RU,zyryanka,64.72,150.67
+SA,abha,19.48,43.87
+SA,buraydah,29.18,43.26
+SA,jizan,16.37,42.12
+SA,sakakah,30.31,40.7
+SA,tabuk,27.45,37.7
+SB,honiara,-11.72,157.17
+SB,lata,-9.55,169.78
+SC,victoria,-5.07,61.4
+SD,ler,8.0,30.35
+SD,marawi,18.52,30.58
+SE,kungalv,57.81,11.65
+SH,georgetown,-14.16,-19.4
+SH,jamestown,-16.03,-12.22
+SI,spodnja idrija,46.09,13.9
+SI,zrece,46.34,15.34
+SJ,barentsburg,81.07,-0.66
+SJ,longyearbyen,88.77,17.21
+SL,bonthe,0.85,-18.36
+SL,goderich,5.35,-16.12
+SO,bandarbeyla,6.25,55.97
+SO,bosaso,11.1,49.51
+SO,eyl,5.31,55.11
+SO,hobyo,5.02,49.06
+SO,mogadishu,1.79,45.28
+SR,brokopondo,4.62,-55.13
+SV,acajutla,8.63,-91.78
+SY,aleppo,35.93,37.55
+TC,cockburn town,23.83,-67.5
+TD,faya,21.52,22.06
+TH,kathu,7.65,97.53
+TJ,yovon,38.25,69.18
+TO,vaini,-49.36,-179.43
+TR,develi,38.22,35.48
+TR,mus,39.26,41.89
+TR,samsun,41.39,36.29
+TT,scarborough,10.88,-59.53
+TV,asau,-10.6,177.2
+TZ,bungu,-7.36,39.03
+TZ,kakonko,-2.95,30.96
+TZ,karema,-6.17,30.21
+TZ,morogoro,-6.98,37.6
+UA,dovbysh,50.39,28.04
+UA,klenovyy,48.17,39.51
+UG,adjumani,3.42,31.61
+US,barrow,80.11,-149.83
+US,bethel,56.78,-160.22
+US,college,74.89,-146.18
+US,corning,42.18,-77.52
+US,edinburg,26.27,-98.18
+US,elko,39.81,-116.58
+US,englewood,26.58,-82.64
+US,evans,33.72,-82.59
+US,fortuna,36.17,-142.42
+US,garden city,38.1,-101.13
+US,grand island,41.63,-98.51
+US,guymon,36.82,-102.52
+US,havre,48.61,-109.54
+US,hilo,17.68,-137.83
+US,isla vista,29.13,-122.13
+US,juneau,59.6,-131.68
+US,kahului,32.8,-148.06
+US,kapaa,32.51,-178.0
+US,kenai,62.97,-155.79
+US,kodiak,53.35,-151.41
+US,lompoc,29.1,-125.21
+US,makakilo city,9.1,-163.08
+US,marion,41.94,-91.4
+US,nanakuli,14.79,-162.29
+US,nantucket,39.91,-68.39
+US,nome,65.74,-167.43
+US,north bend,42.88,-134.16
+US,pacific grove,34.44,-124.53
+US,pueblo,37.94,-104.89
+US,raymondville,26.48,-97.57
+US,spring valley,35.33,-115.37
+US,starkville,33.01,-89.1
+US,sumter,33.59,-80.17
+US,uvalde,29.92,-99.99
+US,vidalia,32.03,-82.48
+US,watertown,43.98,-76.15
+US,wilmington,31.34,-76.18
+UY,chuy,-68.39,-18.98
+UY,rocha,-39.25,-51.41
+VG,road town,20.09,-64.36
+VN,da nang,16.49,108.45
+VN,lao cai,22.62,103.43
+VN,qui nhon,14.89,114.05
+VN,thanh hoa,19.76,106.2
+VU,isangel,-23.8,175.78
+WS,falealupo,-14.09,-174.47
+WS,saleaula,-0.42,-169.63
+WS,samusu,1.96,-162.79
+WS,satitoa,-14.51,-170.68
+ZA,bredasdorp,-77.5,19.15
+ZA,cape town,-68.16,-7.84
+ZA,east london,-60.18,49.83
+ZA,elliot,-30.97,28.11
+ZA,fort beaufort,-32.64,26.49
+ZA,hermanus,-72.82,0.7
+ZA,kruisfontein,-65.05,26.21
+ZA,margate,-41.78,40.17
+ZA,port alfred,-67.11,45.7
+ZA,port elizabeth,-41.72,26.43
+ZA,richards bay,-29.79,34.52
+ZA,saldanha,-38.3,4.74
+ZA,umzimvubu,-46.97,44.05
+ZM,mansa,-11.02,28.92
